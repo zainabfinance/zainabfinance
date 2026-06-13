@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi, I'm Zainab Shaikh 👋
 
-<!--
-**zainabfinance/zainabfinance** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MBA in Finance  
+💼 Accounts Associate with experience in Accounts Payable & Invoice Processing  
+📊 Skilled in Advanced Excel, MIS Reporting, SAP FICO & Oracle Payroll  
+📍 Mumbai, India
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a finance professional with experience in Accounts Payable, Invoice Processing, Vendor Reconciliation, and Financial Operations. I am passionate about using Excel and SAP solutions to improve business processes and reporting accuracy.
+
+## Skills
+
+- Advanced Excel
+- Pivot Tables & Pivot Charts
+- XLOOKUP / VLOOKUP
+- MIS Reporting
+- Accounts Payable
+- Vendor Reconciliation
+- SAP FICO
+- Oracle 
+
+## Projects
+
+### 📊 Accounts Payable Dashboard
+- Vendor Payment Tracking
+- Pivot Tables & Charts
+- Dashboard Navigation
+
+### 💰 Payroll Dashboard
+- Salary Analysis
+- Department-wise Payroll Reports
+- Interactive Slicers
+
+## Certifications
+
+- SAP FICO Certification
+- MBA Finance
+
+## Connect With Me
+
+📧 Linkdin: linkedin.com/in/zainabshaikhfinance
+
+⭐ Thank you for visiting my profile!
