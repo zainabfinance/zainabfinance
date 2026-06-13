@@ -1,4 +1,4 @@
-# Hi, I'm Zainab Shaikh 👋
+# Hi, I'm Zainab Shaikh 👋🏻
 
 🎓 MBA in Finance  
 💼 Accounts Associate with experience in Accounts Payable & Invoice Processing  
